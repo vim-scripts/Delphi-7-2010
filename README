@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3078
+
+This is an updated delphi.vim syntax file for Delphi 2010, based on the original by Thorsten Maerz describedin vimscript #60.   The hard-coded colours have been removed, so changing color schemes will change the delphi syntax highlight colors too.   For Delphi 2010, additional language features will now be recognized, such as "reference to" and "class procedure" and so on.  I tried to contact Thorsten to find out about updating the existing script, but I have not received a reply as yet.
+
+
